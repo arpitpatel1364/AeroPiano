@@ -103,7 +103,7 @@ It serves as a playground for experimenting with human-computer interaction (HCI
 
 | Proof 1 | Proof 2 |
 | :---: | :---: |
-| ![Proof 1](Screenshot%201.png) | ![Proof 2](Screenshot%202.png) |
+| ![Proof 1](Screenshot%202.png) | ![Proof 2](Screenshot%201.png) |
 
 ---
 
